@@ -1,0 +1,35 @@
+{
+  "published_utc": "2026-10-02 11:49:46 UTC",
+  "heartbeat": {
+    "last_pulse": "2026-10-02 06:48:22",
+    "status": "OPERATIONAL",
+    "active_slate": "Showdown: Rams @ Broncos"
+  },
+  "tables": {
+    "active_players": 0,
+    "alfred_heartbeat": 1,
+    "api_quota_vault": 0,
+    "dfs_lineups": 2000,
+    "dfs_players": 74,
+    "dfs_projections": 74,
+    "dfs_slate_pool": 74,
+    "evaluator_rankings": 62,
+    "market_player_props": 0,
+    "market_props_history": 0,
+    "ownership_projections": 5,
+    "parlay_mix": 2500,
+    "parlay_slips": 2000,
+    "parlays": 2000,
+    "player_rankings": 12,
+    "prizepicks": 2500,
+    "prizepicks_slips": 2000,
+    "prop_rankings": 14,
+    "slate_players": 74,
+    "system_telemetry_log": 0,
+    "theoretical_bets": 14,
+    "top_300": 2476,
+    "underdog_slips": 2000
+  },
+  "size_mb": 4.09,
+  "source": "pc-manual"
+}
